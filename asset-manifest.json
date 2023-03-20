@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/panda-react/static/css/main.c1461891.css",
+    "main.js": "/panda-react/static/js/main.bf71a4d6.js",
+    "static/media/blog02.jpg": "/panda-react/static/media/blog02.9746e9f00cb44169d246.jpg",
+    "static/media/blog01.jpg": "/panda-react/static/media/blog01.ef26f35d8a2027eed7f9.jpg",
+    "static/media/blog03.jpg": "/panda-react/static/media/blog03.53e22e75c3d109ca6a8e.jpg",
+    "static/media/blog04.jpg": "/panda-react/static/media/blog04.4d9b6b0068e83a54ca7c.jpg",
+    "static/media/pandaaa.png": "/panda-react/static/media/pandaaa.f7d0605630d7430ac40e.png",
+    "static/media/panda.png": "/panda-react/static/media/panda.3567e78b4a283fb40003.png",
+    "index.html": "/panda-react/index.html",
+    "main.c1461891.css.map": "/panda-react/static/css/main.c1461891.css.map",
+    "main.bf71a4d6.js.map": "/panda-react/static/js/main.bf71a4d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1461891.css",
+    "static/js/main.bf71a4d6.js"
+  ]
+}
